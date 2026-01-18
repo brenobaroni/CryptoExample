@@ -38,11 +38,11 @@ To decrypt the data, the same password and stored values are required.
 ## 📁 Project Structure
 
 project/
-- index.js
-- crypto.js
-- .env
-- .env.example
-- README.md
+├── index.js
+├── crypto.js
+├── .env
+├── .env.example
+└── README.md
 
 
 ## ⚙️ Environment Variables

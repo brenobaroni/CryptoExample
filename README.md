@@ -42,7 +42,7 @@ project/
 ├── crypto.js
 ├── .env
 ├── .env.example
-└── README.md
+└── README.md 
 
 
 ## ⚙️ Environment Variables

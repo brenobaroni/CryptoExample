@@ -8,6 +8,8 @@ This project uses:
 
 No external cryptography libraries are used.
 
+It`s possible to use for cryto data from tokens (JWT, ACCESS_TOKENS), passwords, payloads etc...
+
 ---
 
 ## 📌 Use Case

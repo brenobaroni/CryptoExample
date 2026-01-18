@@ -35,13 +35,15 @@ To decrypt the data, the same password and stored values are required.
 
 ---
 
-## 📁 Project Structure (example)
+## 📁 Project Structure
+
 project/
-│── index.js
-│── crypto.js
-│── .env
-│── .env.example
-│── README.md
+- index.js
+- crypto.js
+- .env
+- .env.example
+- README.md
+
 
 ## ⚙️ Environment Variables
 Create a `.env` file in the root of the project.
